@@ -20,7 +20,7 @@ const io = new Server(server, {
     },
 });
 
-// Configure OpenAI
+
 
 const openai = new OpenAI({
     apiKey: "sk - proj - yV7lnpZWmheo_FS9nEazwoIoOrChpCQd7Fz9uUieXhz1Bypaig9urDKIsRT3BlbkFJrwceJl8GA0Lo1M5q92220ua6fBNTUUoMo5_q6VQvIzJW9rRfQFoLxgNhoA",
